@@ -1,0 +1,17 @@
+
+;; ----- amx-history -----
+(
+ count-words
+ restart-emacs
+ cd
+ 5x5
+ amx
+ arp
+ dbx
+)
+
+;; ----- amx-data -----
+(
+ (restart-emacs . 4)
+ (count-words . 2)
+)
